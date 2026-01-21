@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋 My name is Shikha Singh  
 
-<!--
-**Shikhasingh2400/Shikhasingh2400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+I’m an aspiring Software Engineer and a 2nd year Computer Science student with a solid foundation in **C++, Python, SQL, and JavaScript**. Passionate about full stack development and scalable software, I thrive on tackling complex problems and building impactful solutions. Recently, I built **HackForge**, a coding platform where over **200 students** actively practice and improve their programming skills, and developed a **Finance Management System** used by **50+ people** to efficiently track and manage their expenses. With **500+ LeetCode challenges** under my belt and a **5-Star rating in Problem Solving and C++ on HackerRank**, I am committed to continuous learning and refining my skills. **Problem-solving is my fuel — whether it’s debugging at 2 AM or shipping features faster than expected.** Driven by a love for problem-solving, I am eager to bring my expertise as a **MERN stack enthusiast** to dynamic teams focused on creating scalable, user-centric applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in India  
+- ✉️ You can contact me at **shikhasinghh974gmail.com**  
+- 🛠️ I'm currently working on **coding platforms HackForge**  
+- 🌱 I'm learning **MERN, System Design & Gen AI**  
+- 🤝 I'm open to collaborating on **Interesting Projects**  
+- ⚡ Seeking **Internship Opportunities | Final Year**  
+
+---
+
+### Skills  
+
+<p align="left">
+  <!-- Core Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+  <!-- Frameworks & Stacks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+
+  <!-- Web Tech -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+
+  <!-- AI/ML -->
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="Gen AI" width="40" height="40"/>
+</p>  
+
+---
+
+### Socials  
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/shikha-singh-697502391/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://raj-singh.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/Raajjjsingh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://codolio.c/Rajsingh" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Codolio" width="40" height="40"/>
+  </a>
+</p>  
+
+
+
+---
+
+
+
+
